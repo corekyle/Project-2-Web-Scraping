@@ -7,3 +7,6 @@
 4. Which consoles achieve the highest average sales per hit, and which release decade produced the most top-250 games?
 
 ## Repository Files
+* 'Project2_Part2_Web_Scraped_Data_Analysis_and_Visualizations-checkpoint.ipynb' Jupyter Notebook with web scraping, data cleaning, analysis, plots, and conslusions.
+* 'vgchartz_raw_top250.csv' Raw scraped dataset generated when running the notebook.
+* 'vgchartz_clean_top_250.csv' Cleaned dataset with numeric sales (in millions), parsed release years/decades, and standardized columns.
