@@ -1,0 +1,251 @@
+Rank,Title,Console,Publisher,Developer,Critic_Score,User_Score,Total_Shipped_M,Total_Sales_M,NA_Sales_M,PAL_Sales_M,Japan_Sales_M,Other_Sales_M,Release_Date,Source_Page,Global_Sales_M,Release_Date_Parsed,Release_Year,Release_Decade
+1,Tetris,Series,The Tetris Company,Alexey Pajitnov,,,520.0,,,,,,01st Jan 88,1,520.0,1988-01-01,1988,1980s
+2,Pokemon,Series,Nintendo,Game Freak,,,517.1,,,,,,28th Sep 98,1,517.1,1998-09-28,1998,1990s
+3,Grand Theft Auto,Series,Rockstar Games,Rockstar North,,,512.5,,,,,,27th Mar 98,1,512.5,1998-03-27,1998,1990s
+4,Call of Duty,Series,Activision,Infinity Ward,,,500.0,,,,,,29th Oct 03,1,500.0,2003-10-29,2003,2000s
+5,Super Mario,Series,Nintendo,Nintendo,,,434.95,,,,,,20th Jul 83,1,434.95,1983-07-20,1983,1980s
+6,Minecraft,Series,Mojang,Mojang,,,425.0,,,,,,18th Nov 11,1,425.0,2011-11-18,2011,2010s
+7,Minecraft,All,Mojang,Mojang AB,8.4,,425.0,,,,,,18th Nov 11,1,425.0,2011-11-18,2011,2010s
+8,FIFA,Series,EA Sports,Extended Play Productions (1991-1997),,,325.0,,,,,,15th Dec 93,1,325.0,1993-12-15,1993,1990s
+9,Assassin's Creed,Series,Ubisoft,Ubisoft,,,251.5,,,,,,13th Nov 07,1,251.5,2007-11-13,2007,2000s
+10,Grand Theft Auto V,All,Rockstar Games,Rockstar North,9.7,,235.0,,,,,,17th Sep 13,1,235.0,2013-09-17,2013,2010s
+11,Resident Evil,Series,Capcom,Capcom,,,218.0,,,,,,30th Mar 96,1,218.0,1996-03-30,1996,1990s
+12,Final Fantasy,Series,Square,Square,,,215.0,,,,,,18th Dec 87,1,215.0,1987-12-18,1987,1980s
+13,Mario Kart,Series,Nintendo,Nintendo,,,210.06,,,,,,01st Sep 92,1,210.06,1992-09-01,1992,1990s
+14,Lego,Series,Warner Bros. Interactive Entertainment,TT Fusion,,,203.22,,,,,,26th Sep 97,1,203.22,1997-09-26,1997,1990s
+15,The Sims,Series,Electronic Arts,Maxis,,,200.0,,,,,,04th Feb 00,1,200.0,2000-02-04,2000,2000s
+16,NBA 2K,Series,2K Games,Visual Concepts,,,175.0,,,,,,10th Nov 99,1,175.0,1999-11-10,1999,1990s
+17,The Legend of Zelda,Series,Nintendo,Nintendo,,,166.65,,,,,,14th Jul 87,1,166.65,1987-07-14,1987,1980s
+18,Tomb Raider,Series,Eidos Interactive,Core Design,,,153.0,,,,,,14th Nov 96,1,153.0,1996-11-14,1996,1990s
+19,Madden NFL,Series,Electronic Arts,Park Place Productions,,,150.0,,,,,,01st Jun 88,1,150.0,1988-06-01,1988,1980s
+20,Need for Speed,Series,Electronic Arts,EA Black Box,,,150.0,,,,,,31st Aug 94,1,150.0,1994-08-31,1994,1990s
+21,Wii/Nintendo Sports,Series,Nintendo,Nintendo,,,134.36,,,,,,19th Nov 06,1,134.36,2006-11-19,2006,2000s
+22,Monster Hunter,Series,Capcom,Capcom,,,132.0,,,,,,21st Sep 04,1,132.0,2004-09-21,2004,2000s
+23,Red Dead,Series,Rockstar Games,Rockstar San Diego,,,118.0,,,,,,04th May 04,1,118.0,2004-05-04,2004,2000s
+24,Sonic the Hedgehog,Series,Sega,Sonic Team,,,116.11,,,,,,23rd Jun 91,1,116.11,1991-06-23,1991,1990s
+25,Pro Evolution Soccer/eFootball,Series,Konami,Konami,,,112.5,,,,,,22nd Dec 95,1,112.5,1995-12-22,1995,1990s
+26,Mortal Kombat,Series,Warner Bros. Interactive Entertainment,Avalanche Software,,,101.8,,,,,,08th Oct 92,1,101.8,1992-10-08,1992,1990s
+27,Bejeweled,Series,PopCap Games,PopCap Games,,,100.0,,,,,,30th May 01,1,100.0,2001-05-30,2001,2000s
+28,Borderlands,Series,2K Games,Gearbox Software,,,100.0,,,,,,20th Oct 09,1,100.0,2009-10-20,2009,2000s
+29,Dragon Quest,Series,Square,ArtePiazza,,,100.0,,,,,,27th May 86,1,100.0,1986-05-27,1986,1980s
+30,Gran Turismo,Series,Sony Interactive Entertainment,Polyphony Digital,,,100.0,,,,,,12th May 98,1,100.0,1998-05-12,1998,1990s
+31,WWE 2K,Series,2K Games,Visual Concepts,,,98.0,,,,,,02nd Mar 00,1,98.0,2000-03-02,2000,2000s
+32,Battlefield,Series,Electronic Arts,EA DICE,,,95.7,,,,,,10th Sep 02,1,95.7,2002-09-10,2002,2000s
+33,The Witcher,Series,CD Projekt,CD Projekt Red Studio,,,90.0,,,,,,30th Oct 07,1,90.0,2007-10-30,2007,2000s
+34,Mario Party,Series,Nintendo,Hudson Soft,,,89.32,,,,,,01st Feb 99,1,89.32,1999-02-01,1999,1990s
+35,Red Dead Redemption 2,All,Rockstar Games,Rockstar Studios,9.8,,89.0,,,,,,26th Oct 18,1,89.0,2018-10-26,2018,2010s
+36,The Elder Scrolls,Series,Bethesda Softworks,Bethesda Softworks,,,87.7,,,,,,25th Mar 94,1,87.7,1994-03-25,1994,1990s
+37,Animal Crossing,Series,Nintendo,Nintendo,,,85.55,,,,,,16th Sep 02,1,85.55,2002-09-16,2002,2000s
+38,Wii Sports,Wii,Nintendo,Nintendo EAD,7.7,,82.9,,,,,,19th Nov 06,1,82.9,2006-11-19,2006,2000s
+39,Harry Potter/Wizarding World,Series,Electronic Arts,Griptonite Games,,,82.7,,,,,,15th Nov 01,1,82.7,2001-11-15,2001,2000s
+40,Halo,Series,Microsoft Game Studios,Bungie,,,81.0,,,,,,15th Nov 01,1,81.0,2001-11-15,2001,2000s
+41,Dragon Ball,Series,Bandai,Tose,,,80.49,,,,,,27th Sep 86,1,80.49,1986-09-27,1986,1980s
+42,Civilization,Series,Microprose,Firaxis Games,,,80.0,,,,,,01st Sep 91,1,80.0,1991-09-01,1991,1990s
+43,Just Dance,Series,Ubisoft,Ubisoft,,,80.0,,,,,,17th Nov 09,1,80.0,2009-11-17,2009,2000s
+44,Super Smash Bros.,Series,Nintendo,Nintendo,,,79.8,,,,,,26th Apr 99,1,79.8,1999-04-26,1999,1990s
+45,God of War,Series,Sony Interactive Entertainment,SIE Santa Monica Studio,,,76.55,,,,,,22nd Mar 05,1,76.55,2005-03-22,2005,2000s
+46,Ark,Series,Studio Wildcard,Studio Wildcard,,,76.26,,,,,,27th Aug 17,1,76.26,2017-08-27,2017,2010s
+47,Ark: Survival Evolved,All,Studio Wildcard,Studio Wildcard,,,76.0,,,,,,29th Aug 17,1,76.0,2017-08-29,2017,2010s
+48,Crash Bandicoot,Series,Sony Interactive Entertainment,Naughty Dog,,,75.0,,,,,,09th Sep 96,1,75.0,1996-09-09,1996,1990s
+49,PlayerUnknown's Battlegrounds,All,PUBG Corporation,PUBG Corporation,,,75.0,,,,,,17th Dec 17,1,75.0,2017-12-17,2017,2010s
+50,PUBG,Series,PUBG Corporation,PUBG Corporation,,,75.0,,,,,,20th Dec 17,1,75.0,2017-12-20,2017,2010s
+51,Worms,Series,Team17,Team17,,,75.0,,,,,,31st Oct 95,2,75.0,1995-10-31,1995,1990s
+52,Mario Kart 8 Deluxe,NS,Nintendo,Nintendo EPD,9.3,,72.0,,,,,,28th Apr 17,2,72.0,2017-04-28,2017,2010s
+53,Donkey Kong,Series,Nintendo,Nintendo,,,71.82,,,,,,31st Jul 81,2,71.82,1981-07-31,1981,1980s
+54,Terraria,Series,505 Games,Re-Logic,,,70.0,,,,,,16th May 11,2,70.0,2011-05-16,2011,2010s
+55,Terraria,All,Re-Logic,Re-Logic,,,70.0,,,,,,16th May 11,2,70.0,2011-05-16,2011,2010s
+56,Metal Gear,Series,Konami,Konami,,,67.7,,,,,,13th Jul 87,2,67.7,1987-07-13,1987,1980s
+57,Counter-Strike,Series,Valve,Valve,,,65.0,,,,,,09th Nov 00,2,65.0,2000-11-09,2000,2000s
+58,The Elder Scrolls V: Skyrim,All,Bethesda Softworks,Bethesda Game Studios,9.4,,65.0,,,,,,10th Nov 11,2,65.0,2011-11-10,2011,2010s
+59,The Oregon Trail,Series,MECC,MECC,,,65.0,,,,,,03rd Dec 71,2,65.0,1971-12-03,1971,1970s
+60,The Witcher 3: Wild Hunt,All,Warner Bros. Interactive Entertainment,CD Projekt Red Studio,8.9,,65.0,,,,,,18th May 15,2,65.0,2015-05-18,2015,2010s
+61,ARMA,Series,505 Games,Bohemia Interactive,,,64.28,,,,,,04th May 07,2,64.28,2007-05-04,2007,2000s
+62,Tekken,Series,Namco,Bandai Namco Studios,,,62.7,,,,,,11th Dec 94,2,62.7,1994-12-11,1994,1990s
+63,Far Cry,Series,Ubisoft,Ubisoft,,,62.5,,,,,,23rd Mar 04,2,62.5,2004-03-23,2004,2000s
+64,Star Wars: Battlefront,Series,LucasArts,Pandemic Studios,,,60.0,,,,,,21st Sep 04,2,60.0,2004-09-21,2004,2000s
+65,Street Fighter,Series,Capcom,Capcom,,,60.0,,,,,,30th Aug 87,2,60.0,1987-08-30,1987,1980s
+66,Spider-Man,Series,Parker Brothers,Parker Brothers,,,59.0,,,,,,01st Jan 82,2,59.0,1982-01-01,1982,1980s
+67,Warriors,Series,KOEI,Omega Force,,,56.67,,,,,,30th Jun 97,2,56.67,1997-06-30,1997,1990s
+68,Diablo,Series,Blizzard Entertainment,Blizzard North,,,55.0,,,,,,03rd Jan 97,2,55.0,1997-01-03,1997,1990s
+69,Human: Fall Flat,All,Curve Digital,No Brakes Games,,,55.0,,,,,,22nd Jul 16,2,55.0,2016-07-22,2016,2010s
+70,Lego Star Wars,Series,Warner Bros. Interactive Entertainment,TT Fusion,,,53.2,,,,,,29th Mar 05,2,53.2,2005-03-29,2005,2000s
+71,Marvel's Spider-Man,Series,Sony Interactive Entertainment,Insomniac Games,,,51.0,,,,,,07th Sep 18,2,51.0,2018-09-07,2018,2010s
+72,Total War,Series,Sega,Creative Assembly,,,50.83,,,,,,13th Jun 00,2,50.83,2000-06-13,2000,2000s
+73,Kirby,Series,Nintendo,HAL Laboratory,,,50.82,,,,,,01st Aug 92,2,50.82,1992-08-01,1992,1990s
+74,Animal Crossing: New Horizons,NS,Nintendo,Nintendo,,,50.63,,,,,,20th Mar 20,2,50.63,2020-03-20,2020,2020s
+75,The Walking Dead: Telltale Games Series,Series,Telltale Games,Telltale Games,,,50.0,,,,,,24th Apr 12,2,50.0,2012-04-24,2012,2010s
+76,Destiny,Series,Activision,Bungie,,,50.0,,,,,,09th Sep 14,2,50.0,2014-09-09,2014,2010s
+77,Metro,Series,THQ,4a-games,,,50.0,,,,,,16th Mar 10,2,50.0,2010-03-16,2010,2010s
+78,Stardew Valley,Series,Chucklefish,ConcernedApe,,,50.0,,,,,,26th Feb 16,2,50.0,2016-02-26,2016,2010s
+79,Stardew Valley,All,ConcernedApe,ConcernedApe,,,50.0,,,,,,26th Feb 16,2,50.0,2016-02-26,2016,2010s
+80,ArmA II,PC,Got Game Entertainment,Bohemia Interactive,,,47.26,,,,,,07th Jul 09,2,47.26,2009-07-07,2009,2000s
+81,Naruto,Series,Bandai Namco Entertainment,CyberConnect2,,,46.58,,,,,,26th Jun 06,2,46.58,2006-06-26,2006,2000s
+82,Mega Man,Series,Capcom,Capcom,,,45.0,,,,,,17th Dec 87,2,45.0,1987-12-17,1987,1980s
+83,Souls,Series,Bandai Namco Entertainment,From Software,,,44.88,,,,,,06th Oct 09,2,44.88,2009-10-06,2009,2000s
+84,Uncharted,Series,Sony Interactive Entertainment,Naughty Dog,,,44.33,,,,,,20th Nov 07,2,44.33,2007-11-20,2007,2000s
+85,Wii Fit,Series,Nintendo,Nintendo,,,43.8,,,,,,21st May 08,2,43.8,2008-05-21,2008,2000s
+86,BioShock,Series,2K Games,Irrational Games,,,43.0,,,,,,21st Aug 07,2,43.0,2007-08-21,2007,2000s
+87,Call of Duty: Black Ops 3,All,Activision,Treyarch,,,43.0,,,,,,06th Nov 15,2,43.0,2015-11-06,2015,2010s
+88,Farming Simulator,Series,Astragon,Giants Software,,,43.0,,,,,,14th Apr 08,2,43.0,2008-04-14,2008,2000s
+89,Devil May Cry,Series,Capcom,Capcom,,,42.0,,,,,,16th Oct 01,2,42.0,2001-10-16,2001,2000s
+90,Dark Souls,Series,Bandai Namco Entertainment,From Software,,,41.8,,,,,,04th Oct 11,2,41.8,2011-10-04,2011,2010s
+91,Call of Duty: Modern Warfare,All,Activision,Infinity Ward,7.8,,41.0,,,,,,25th Oct 19,2,41.0,2019-10-25,2019,2010s
+92,Gears of War,Series,Microsoft Game Studios,Epic Games,,,41.0,,,,,,07th Nov 06,2,41.0,2006-11-07,2006,2000s
+93,Payday,Series,Daybreak Games,Overkill Software,,,40.7,,,,,,18th Oct 11,2,40.7,2011-10-18,2011,2010s
+94,World of WarCraft,Series,Blizzard Entertainment,Blizzard Entertainment,,,40.6,,,,,,23rd Nov 04,2,40.6,2004-11-23,2004,2000s
+95,Super Mario Bros.,NES,Nintendo,Nintendo EAD,10.0,8.2,40.24,,,,,,18th Oct 85,2,40.24,1985-10-18,1985,1980s
+96,Counter-Strike: Global Offensive,PC,Valve,Valve Corporation,,,40.0,,,,,,21st Aug 12,2,40.0,2012-08-21,2012,2010s
+97,Cyberpunk 2077,All,CD Projekt Red Studio,CD Projekt Red Studio,8.9,,40.0,,,,,,10th Dec 20,2,40.0,2020-12-10,2020,2020s
+98,Guitar Hero,Series,Activision,Harmonix,,,40.0,,,,,,08th Nov 05,2,40.0,2005-11-08,2005,2000s
+99,Hitman,Series,Eidos Interactive,IO Interactive,,,40.0,,,,,,21st Nov 00,2,40.0,2000-11-21,2000,2000s
+100,Hogwarts Legacy,All,Warner Bros. Interactive Entertainment,Avalanche Software,7.6,,40.0,,,,,,10th Feb 23,2,40.0,2023-02-10,2023,2020s
+101,Horizon,Series,Sony Interactive Entertainment,Guerrilla Games,,,40.0,,,,,,28th Feb 17,3,40.0,2017-02-28,2017,2010s
+102,Payday 2,All,505 Games,Overkill Software,,,40.0,,,,,,13th Aug 13,3,40.0,2013-08-13,2013,2010s
+103,Tom Clancy's Ghost Recon,Series,Ubisoft,Red Storm Entertainment,,,40.0,,,,,,13th Nov 01,3,40.0,2001-11-13,2001,2000s
+104,Terraria,PC,Re-Logic,Re-Logic,8.8,,39.6,,,,,,16th May 11,3,39.6,2011-05-16,2011,2010s
+105,Medal of Honor,Series,Electronic Arts,"2015, Inc.",,,39.0,,,,,,31st Oct 99,3,39.0,1999-10-31,1999,1990s
+106,Super Smash Bros. Ultimate,NS,Nintendo,Bandai Namco Games,9.4,9.7,38.5,,,,,,07th Dec 18,3,38.5,2018-12-07,2018,2010s
+107,The Last of Us,Series,Sony Interactive Entertainment,Naughty Dog,,,37.45,,,,,,14th Jun 13,3,37.45,2013-06-14,2013,2010s
+108,Mario Kart Wii,Wii,Nintendo,Nintendo EAD,8.2,9.1,37.38,,,,,,27th Apr 08,3,37.38,2008-04-27,2008,2000s
+109,Yakuza/Like a Dragon,Series,Sega,Sega,,,37.11,,,,,,05th Sep 06,3,37.11,2006-09-05,2006,2000s
+110,PLAYERUNKNOWN'S BATTLEGROUNDS,PC,PUBG Corporation,PUBG Corporation,,,36.6,,,,,,21st Dec 17,3,36.6,2017-12-21,2017,2010s
+111,Kingdom Hearts,Series,Square Enix,Square,,,36.0,,,,,,17th Sep 02,3,36.0,2002-09-17,2002,2000s
+112,Tom Clancy's Rainbow Six,Series,Ubisoft,Ubisoft,,,36.0,,,,,,21st Aug 98,3,36.0,1998-08-21,1998,1990s
+113,The Legend of Zelda: Breath of the Wild,All,Nintendo,Nintendo,,,35.98,,,,,,03rd Mar 17,3,35.98,2017-03-03,2017,2010s
+114,Fallout,Series,Bethesda Softworks,Interplay Entertainment,,,35.9,,,,,,10th Oct 97,3,35.9,1997-10-10,1997,1990s
+115,Brain Age,Series,Nintendo,Nintendo,,,35.16,,,,,,16th Apr 06,3,35.16,2006-04-16,2006,2000s
+116,Elden Ring,Series,Bandai Namco Entertainment,From Software,,,35.0,,,,,,25th Feb 22,3,35.0,2022-02-25,2022,2020s
+117,Fallout 4,All,Bethesda Softworks,Bethesda Game Studios,8.8,,35.0,,,,,,10th Nov 15,3,35.0,2015-11-10,2015,2010s
+118,NBA Live,Series,EA Sports,EA Canada,,,35.0,,,,,,01st Oct 94,3,35.0,1994-10-01,1994,1990s
+119,Tetris,GB,Nintendo,Bullet Proof Software,,,35.0,,,,,,31st Jul 89,3,35.0,1989-07-31,1989,1980s
+120,The Legend of Zelda: Breath of the Wild,NS,Nintendo,Nintendo EPD,9.9,10.0,34.28,,,,,,03rd Mar 17,3,34.28,2017-03-03,2017,2010s
+121,James Bond/007,Series,Parker Bros.,Richard Shepherd Software,,,34.0,,,,,,01st Jan 83,3,34.0,1983-01-01,1983,1980s
+122,Ratchet & Clank,Series,Sony Interactive Entertainment,Insomniac Games,,,33.71,,,,,,04th Nov 02,3,33.71,2002-11-04,2002,2000s
+123,Saints Row,Series,THQ,Volition,,,33.7,,,,,,29th Aug 06,3,33.7,2006-08-29,2006,2000s
+124,Football Manager,Series,Sega,Sports Interactive,,,33.33,,,,,,05th Nov 04,3,33.33,2004-11-05,2004,2000s
+125,Minecraft,PC,Mojang,Mojang AB,10.0,,33.15,,,,,,10th May 10,3,33.15,2010-05-10,2010,2010s
+126,Wii Sports Resort,Wii,Nintendo,Nintendo EAD,8.0,8.8,33.14,,,,,,26th Jul 09,3,33.14,2009-07-26,2009,2000s
+127,Half-life,Series,Valve,Valve,,,33.1,,,,,,19th Nov 98,3,33.1,1998-11-19,1998,1990s
+128,Splatoon,Series,Nintendo,Nintendo,,,32.93,,,,,,29th May 15,3,32.93,2015-05-29,2015,2010s
+129,Yu-Gi-Oh!,Series,Konami,Konami,,,32.7,,,,,,20th Mar 02,3,32.7,2002-03-20,2002,2000s
+130,Grand Theft Auto VI,All,Rockstar Games,Rockstar Games,,,32.5,,,,,,19th Nov 26,3,32.5,2026-11-19,2026,2020s
+131,Tales of,Series,Namco,Bandai Namco Studios,,,32.13,,,,,,30th Sep 98,3,32.13,1998-09-30,1998,1990s
+132,Persona,Series,Atlus,Atlus,,,32.07,,,,,,01st Nov 96,3,32.07,1996-11-01,1996,1990s
+133,Pokémon Red / Green / Blue Version,GB,Nintendo,Game Freak,9.4,,31.38,,,,,,30th Sep 98,3,31.38,1998-09-30,1998,1990s
+134,Tony Hawk's,Series,Activision,Neversoft,,,31.12,,,,,,29th Sep 99,3,31.12,1999-09-29,1999,1990s
+135,Super Mario Odyssey,NS,Nintendo,Nintendo EPD,9.9,,31.06,,,,,,27th Oct 17,3,31.06,2017-10-27,2017,2010s
+136,Borderlands 2,All,2K Games,Gearbox Software,9.1,,31.0,,,,,,18th Sep 12,3,31.0,2012-09-18,2012,2010s
+137,Call of Duty: Black Ops II,All,Activision,Treyarch,8.5,,31.0,,,,,,13th Nov 12,3,31.0,2012-11-13,2012,2010s
+138,Tom Clancy's Splinter Cell,Series,Ubisoft,Ubisoft,,,31.0,,,,,,17th Nov 02,3,31.0,2002-11-17,2002,2000s
+139,Mario & Sonic at the Olympic Games,Series,Sega,Sega,,,30.9,,,,,,06th Nov 07,3,30.9,2007-11-06,2007,2000s
+140,Age of Empires,Series,Microsoft,Ensemble Studios,,,30.82,,,,,,15th Oct 97,3,30.82,1997-10-15,1997,1990s
+141,Monster Hunter: World,All,Capcom,Capcom,9.1,,30.8,,,,,,26th Jan 18,3,30.8,2018-01-26,2018,2010s
+142,New Super Mario Bros.,DS,Nintendo,Nintendo EAD,9.1,8.1,30.8,,,,,,15th May 06,3,30.8,2006-05-15,2006,2000s
+143,New Super Mario Bros. Wii,Wii,Nintendo,Nintendo EAD,8.6,9.2,30.32,,,,,,15th Nov 09,3,30.32,2009-11-15,2009,2000s
+144,Black Myth: Wukong,All,Game Science,Game Science,,,30.0,,,,,,20th Aug 24,3,30.0,2024-08-20,2024,2020s
+145,Call of Duty: Black Ops,All,Activision,Treyarch,8.3,,30.0,,,,,,09th Nov 10,3,30.0,2010-11-09,2010,2010s
+146,Call of Duty: Black Ops Cold War,All,Activision,Treyarch,,,30.0,,,,,,13th Nov 20,3,30.0,2020-11-13,2020,2020s
+147,Call of Duty: Modern Warfare 3,All,Activision,Infinity Ward,8.8,,30.0,,,,,,08th Nov 11,3,30.0,2011-11-08,2011,2010s
+148,Call of Duty: Vanguard,All,Activision,Sledgehammer Games,,,30.0,,,,,,05th Nov 21,3,30.0,2021-11-05,2021,2020s
+149,Command & Conquer,Series,Electronic Arts,Westwood Studios,,,30.0,,,,,,26th Sep 95,3,30.0,1995-09-26,1995,1990s
+150,Diablo III,All,Blizzard Entertainment,Blizzard Entertainment,9.0,,30.0,,,,,,15th May 15,3,30.0,2015-05-15,2015,2010s
+151,Dying Light,Series,Techland,Techland,,,30.0,,,,,,27th Jan 15,4,30.0,2015-01-27,2015,2010s
+152,Elden Ring,All,Bandai Namco Entertainment,From Software,9.5,,30.0,,,,,,25th Feb 22,4,30.0,2022-02-25,2022,2020s
+153,It Takes Two,All,Electronic Arts,Hazelight,,,30.0,,,,,,26th Mar 21,4,30.0,2021-03-26,2021,2020s
+154,Naruto: Ultimate Ninja Storm,Series,Namco Bandai Games,CyberConnect2,,,30.0,,,,,,04th Nov 08,4,30.0,2008-11-04,2008,2000s
+155,Spyro,Series,Sony Interactive Entertainment,Insomniac Games,,,30.0,,,,,,10th Sep 98,4,30.0,1998-09-10,1998,1990s
+156,Wii Play,Series,Nintendo,Nintendo,,,29.66,,,,,,12th Feb 07,4,29.66,2007-02-12,2007,2000s
+157,Pokémon Scarlet / Violet,NS,Nintendo,Game Freak,,,28.66,,,,,,18th Nov 22,4,28.66,2022-11-18,2022,2020s
+158,Nintendogs,Series,Nintendo,Nintendo,,,28.65,,,,,,22nd Aug 05,4,28.65,2005-08-22,2005,2000s
+159,Duck Hunt,NES,Nintendo,Nintendo R&D1,,,28.31,,,,,,15th Oct 85,4,28.31,1985-10-15,1985,1980s
+160,Wii Play,Wii,Nintendo,Nintendo EAD,5.9,4.5,28.02,,,,,,12th Feb 07,4,28.02,2007-02-12,2007,2000s
+161,Yoshi,Series,Nintendo,Nintendo,,,27.66,,,,,,01st Jun 92,4,27.66,1992-06-01,1992,1990s
+162,Grand Theft Auto: San Andreas,All,Rockstar Games,Rockstar North,10.0,,27.5,,,,,,26th Oct 04,4,27.5,2004-10-26,2004,2000s
+163,Baldur's Gate,Series,Interplay Entertainment Corp.,BioWare,,,27.47,,,,,,31st Jul 00,4,27.47,2000-07-31,2000,2000s
+164,Pokémon Sword / Shield,NS,Nintendo,Game Freak,,,27.36,,,,,,15th Nov 19,4,27.36,2019-11-15,2019,2010s
+165,Portal,Series,Valve,Valve,,,27.03,,,,,,10th Oct 07,4,27.03,2007-10-10,2007,2000s
+166,Jikkyo Powerful Pro Yakyu,Series,Konami,Konami,,,26.9,,,,,,11th Mar 94,4,26.9,1994-03-11,1994,1990s
+167,FIFA 18,All,Electronic Arts,EA Vancouver,,,26.4,,,,,,26th Sep 17,4,26.4,2017-09-26,2017,2010s
+168,Rayman,Series,Ubisoft,Ubisoft,,,26.0,,,,,,19th Sep 95,4,26.0,1995-09-19,1995,1990s
+169,Stardew Valley,PC,Chucklefish,ConcernedApe,9.2,,26.0,,,,,,26th Feb 16,4,26.0,2016-02-26,2016,2010s
+170,Luigi's Mansion,Series,Nintendo,Nintendo,,,25.94,,,,,,18th Nov 01,4,25.94,2001-11-18,2001,2000s
+171,Garry's Mod,PC,Valve,Facepunch Studios,,,25.56,,,,,,29th Nov 06,4,25.56,2006-11-29,2006,2000s
+172,Grand Theft Auto IV,All,Rockstar Games,Rockstar North,10.0,,25.0,,,,,,02nd Dec 08,4,25.0,2008-12-02,2008,2000s
+173,Hitman: World of Assassination,All,IO Interactive,IO Interactive,,,25.0,,,,,,01st Jan 23,4,25.0,2023-01-01,2023,2020s
+174,Phasmophobia,All,Kinetic Games,Kinetic Games,,,25.0,,,,,,18th Sep 20,4,25.0,2020-09-18,2020,2020s
+175,Puyo Puyo,Series,Sega,Compile,,,25.0,,,,,,11th Feb 02,4,25.0,2002-02-11,2002,2000s
+176,Tiger Woods PGA Tour,Series,EA Sports,EA Redwood Shores,,,25.0,,,,,,31st Aug 98,4,25.0,1998-08-31,1998,1990s
+177,Batman: Arkham,Series,Warner Bros. Interactive Entertainment,Rocksteady Studios,,,24.81,,,,,,25th Aug 09,4,24.81,2009-08-25,2009,2000s
+178,Little Nightmares,Series,Bandai Namco Entertainment,Tarsier Studios,,,24.54,,,,,,28th Apr 17,4,24.54,2017-04-28,2017,2010s
+179,Dynasty Warriors,Series,KOEI,Omega Force,,,24.0,,,,,,30th Jun 97,4,24.0,1997-06-30,1997,1990s
+180,Kinect Adventures!,X360,Microsoft Game Studios,Good Science Studio,6.7,,24.0,,,,,,04th Nov 10,4,24.0,2010-11-04,2010,2010s
+181,Petz,Series,PF.Magic,PF Magic,,,24.0,,,,,,01st Jan 95,4,24.0,1995-01-01,1995,1990s
+182,Nintendogs,DS,Nintendo,Nintendo EAD,8.4,,23.96,,,,,,23rd Aug 05,4,23.96,2005-08-23,2005,2000s
+183,Mario Kart DS,DS,Nintendo,Nintendo EAD,9.1,9.4,23.6,,,,,,14th Nov 05,4,23.6,2005-11-14,2005,2000s
+184,God of War (2018),All,Sony Interactive Entertainment,SIE Santa Monica Studio,,,23.52,,,,,,20th Apr 18,4,23.52,2018-04-20,2018,2010s
+185,Subnautica,Series,Unknown Worlds Entertainment,Unknown Worlds Entertainment,,,23.5,,,,,,23rd Jan 18,4,23.5,2018-01-23,2018,2010s
+186,Pokémon Gold / Silver Version,GB,Nintendo,Game Freak,9.2,,23.1,,,,,,14th Oct 00,4,23.1,2000-10-14,2000,2000s
+187,Borderlands 3,All,2K Games,Gearbox Software,,,23.0,,,,,,13th Sep 19,4,23.0,2019-09-13,2019,2010s
+188,The Legend of Zelda: Tears of the Kingdom,NS,Nintendo,Nintendo,,8.6,22.9,,,,,,12th May 23,4,22.9,2023-05-12,2023,2020s
+189,Call of Duty: Modern Warfare 2,All,Activision,Infinity Ward,9.7,,22.7,,,,,,10th Nov 09,4,22.7,2009-11-10,2009,2000s
+190,Marvel's Spider-Man,PS4,Sony Interactive Entertainment,Insomniac Games,9.1,,22.69,,,,,,07th Sep 18,4,22.69,2018-09-07,2018,2010s
+191,Wii Fit,Wii,Nintendo,Nintendo EAD,7.9,,22.67,,,,,,21st May 08,4,22.67,2008-05-21,2008,2000s
+192,Teenage Mutant Ninja Turtles,Series,Konami,Konami,,,22.6,,,,,,12th May 89,4,22.6,1989-05-12,1989,1980s
+193,Horizon: Zero Dawn,All,Sony Interactive Entertainment,Guerrilla Games,,,22.6,,,,,,28th Feb 17,4,22.6,2017-02-28,2017,2010s
+194,Microsoft Flight Simulator,Series,Microsoft,Sublogic,,,22.2,,,,,,01st Nov 82,4,22.2,1982-11-01,1982,1980s
+195,Ace Combat,Series,Namco,Namco,,,22.0,,,,,,09th Sep 95,4,22.0,1995-09-09,1995,1990s
+196,Hollow Knight,Series,Team Cherry,Team Cherry,,,22.0,,,,,,24th Feb 17,4,22.0,2017-02-24,2017,2010s
+197,SpongeBob SquarePants,Series,THQ,Vicarious Visions,,,22.0,,,,,,15th Mar 01,4,22.0,2001-03-15,2001,2000s
+198,Castlevania,Series,Konami,Konami,,,21.63,,,,,,26th Sep 86,4,21.63,1986-09-26,1986,1980s
+199,Super Mario Party,NS,Nintendo,"Nd Cube Co., Ltd.",7.3,,21.39,,,,,,05th Oct 18,4,21.39,2018-10-05,2018,2010s
+200,Super Robot Wars,Series,Bandai,Banpresto,,,21.33,,,,,,20th Apr 91,4,21.33,1991-04-20,1991,1990s
+201,Wii Fit Plus,Wii,Nintendo,Nintendo EAD,8.0,,21.13,,,,,,04th Oct 09,5,21.13,2009-10-04,2009,2000s
+202,God of War (2018),PS4,Sony Interactive Entertainment,SIE Santa Monica Studio,9.7,10.0,21.02,,,,,,20th Apr 18,5,21.02,2018-04-20,2018,2010s
+203,Battlefield 1,All,Electronic Arts,EA DICE,9.0,,21.0,,,,,,21st Oct 16,5,21.0,2016-10-21,2016,2010s
+204,Imagine,Series,Ubisoft,Ubisoft,,,21.0,,,,,,01st Oct 07,5,21.0,2007-10-01,2007,2000s
+205,Final Fantasy X/X-2,All,Square,Square,8.5,,20.8,,,,,,17th Dec 01,5,20.8,2001-12-17,2001,2000s
+206,Super Mario World,SNES,Nintendo,Nintendo EAD,8.5,,20.61,,,,,,13th Aug 91,5,20.61,1991-08-13,1991,1990s
+207,The Lord of the Rings,Series,Melbourne House,Beam Software,,,20.57,,,,,,01st Nov 82,5,20.57,1982-11-01,1982,1980s
+208,Grand Theft Auto V,PS3,Rockstar Games,Rockstar North,9.4,,,20.32,6.37,9.85,0.99,3.12,17th Sep 13,5,20.32,2013-09-17,2013,2010s
+209,Resident Evil 2 (2019),All,Capcom,Capcom,,,20.3,,,,,,25th Jan 19,5,20.3,2019-01-25,2019,2010s
+210,Momotaro Dentetsu,Series,Konami,Hudson Soft,,,20.2,,,,,,02nd Dec 88,5,20.2,1988-12-02,1988,1980s
+211,7 Days to Die,All,The Fun Pimps,The Fun Pimps,,,20.0,,,,,,13th Dec 13,5,20.0,2013-12-13,2013,2010s
+212,Baldur's Gate III,All,Larian Studios,Larian Studios,,,20.0,,,,,,03rd Aug 23,5,20.0,2023-08-03,2023,2020s
+213,Castle Crashers,All,Microsoft Game Studios,The Behemoth,,,20.0,,,,,,27th Aug 08,5,20.0,2008-08-27,2008,2000s
+214,Crash Bandicoot N. Sane Trilogy,All,Activision,Vicarious Visions,,,20.0,,,,,,30th Jun 17,5,20.0,2017-06-30,2017,2010s
+215,Dying Light,All,Warner Bros. Interactive Entertainment,Techland,8.1,,20.0,,,,,,27th Jan 15,5,20.0,2015-01-27,2015,2010s
+216,FIFA 19,All,EA Sports,EA Vancouver,,,20.0,,,,,,28th Sep 18,5,20.0,2018-09-28,2018,2010s
+217,Frogger,Series,Konami,Konami,,,20.0,,,,,,23rd Oct 81,5,20.0,1981-10-23,1981,1980s
+218,Gundam,Series,Bandai,Banpresto,,,20.0,,,,,,02nd May 97,5,20.0,1997-05-02,1997,1990s
+219,Lemmings,Series,Psygnosis,DMA Design,,,20.0,,,,,,14th Feb 91,5,20.0,1991-02-14,1991,1990s
+220,Monster Hunter Rise,All,Capcom,Capcom,,,20.0,,,,,,26th Mar 21,5,20.0,2021-03-26,2021,2020s
+221,Prince of Persia,Series,Ubisoft,Broderbund,,,20.0,,,,,,03rd Aug 89,5,20.0,1989-08-03,1989,1980s
+222,Rayman Raving Rabbids,Series,Ubisoft,Ubisoft,,,20.0,,,,,,19th Nov 06,5,20.0,2006-11-19,2006,2000s
+223,SimCity,Series,Maxis,Maxis,,,20.0,,,,,,02nd Feb 89,5,20.0,1989-02-02,1989,1980s
+224,Simple,Series,Agetec,Bandai Namco Studios,,,20.0,,,,,,30th Nov 02,5,20.0,2002-11-30,2002,2000s
+225,SingStar,Series,Sony Interactive Entertainment,London Studios,,,20.0,,,,,,21st May 04,5,20.0,2004-05-21,2004,2000s
+226,Sniper Elite,Series,Rebellion Developments,Rebellion Developments,,,20.0,,,,,,18th Oct 05,5,20.0,2005-10-18,2005,2000s
+227,Tom Clancy's The Division,Series,Ubisoft,Massive Entertainment,,,20.0,,,,,,08th Mar 16,5,20.0,2016-03-08,2016,2010s
+228,Watch Dogs,Series,Ubisoft,Ubisoft,,,20.0,,,,,,27th May 14,5,20.0,2014-05-27,2014,2010s
+229,Tomodachi,Series,Nintendo,Nintendo,,,19.41,,,,,,06th Jun 14,5,19.41,2014-06-06,2014,2010s
+230,Grand Theft Auto V,PS4,Rockstar Games,Rockstar North,9.7,,,19.39,6.06,9.71,0.6,3.02,18th Nov 14,5,19.39,2014-11-18,2014,2010s
+231,Horizon: Zero Dawn,PS4,Sony Interactive Entertainment,Guerrilla Games,9.1,8.0,19.3,,,,,,28th Feb 17,5,19.3,2017-02-28,2017,2010s
+232,New Super Mario Bros. U Deluxe,NS,Nintendo,Nintendo EPD,,6.6,19.22,,,,,,11th Jan 19,5,19.22,2019-01-11,2019,2010s
+233,Silent Hill,Series,Konami,Konami Computer Entertainment Tokyo,,,19.2,,,,,,23rd Feb 99,5,19.2,1999-02-23,1999,1990s
+234,StarCraft,Series,Blizzard Entertainment,Blizzard Entertainment,,,19.1,,,,,,31st Mar 98,5,19.1,1998-03-31,1998,1990s
+235,Metroid,Series,Nintendo,Nintendo,,,19.03,,,,,,15th Aug 87,5,19.03,1987-08-15,1987,1980s
+236,Brain Age: Train Your Brain in Minutes a Day,DS,Nintendo,Nintendo SDD,8.1,,19.01,,,,,,17th Apr 06,5,19.01,2006-04-17,2006,2000s
+237,Call of Duty: Ghosts,All,Activision,Infinity Ward,8.1,,19.0,,,,,,05th Nov 13,5,19.0,2013-11-05,2013,2010s
+238,Dead Rising,Series,Capcom,Capcom,,,19.0,,,,,,08th Aug 06,5,19.0,2006-08-08,2006,2000s
+239,Driver,Series,GT Interactive,Ubisoft Reflections,,,19.0,,,,,,30th Jun 99,5,19.0,1999-06-30,1999,1990s
+240,WarCraft,Series,Blizzard Entertainment,Blizzard Entertainment,,,19.0,,,,,,23rd Nov 94,5,19.0,1994-11-23,1994,1990s
+241,Mario Kart 7,3DS,Nintendo,Nintendo EAD / Retro Studios,8.2,,18.99,,,,,,04th Dec 11,5,18.99,2011-12-04,2011,2010s
+242,Resident Evil 7,All,Capcom,Capcom,,,18.8,,,,,,24th Jan 17,5,18.8,2017-01-24,2017,2010s
+243,Uncharted 4: A Thief's End,PS4,Sony Interactive Entertainment,Naughty Dog,9.2,,18.65,,,,,,10th May 16,5,18.65,2016-05-10,2016,2010s
+244,The Last of Us Remastered,PS4,Sony Computer Entertainment,Naughty Dog,9.5,,18.63,,,,,,29th Jul 14,5,18.63,2014-07-29,2014,2010s
+245,Midnight Club,Series,Rockstar Games,Rockstar San Diego,,,18.5,,,,,,26th Oct 00,5,18.5,2000-10-26,2000,2000s
+246,Nintendo Switch Sports,NS,Nintendo,Nintendo,,,18.32,,,,,,29th Apr 22,5,18.32,2022-04-29,2022,2020s
+247,Super Mario Land,GB,Nintendo,Nintendo R&D1,,,18.14,,,,,,01st Aug 89,5,18.14,1989-08-01,1989,1980s
+248,Fire Emblem,Series,Nintendo,Intelligent Systems,,,18.09,,,,,,03rd Nov 03,5,18.09,2003-11-03,2003,2000s
+249,Professor Layton,Series,Nintendo,Level-5,,,18.0,,,,,,10th Feb 08,5,18.0,2008-02-10,2008,2000s
+250,Resident Evil 5,All,Capcom,Capcom,8.4,,18.0,,,,,,13th Mar 09,5,18.0,2009-03-13,2009,2000s
